@@ -6,6 +6,12 @@
       "title": "Development",
       "description": "Skills for development process",
       "skills": [
+        "grill-with-docs",
+        "grilling",
+        "domain-modeling",
+        "to-spec",
+        "to-tickets",
+        "code-review",
         "wayfinder"
       ]
     }

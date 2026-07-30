@@ -12,7 +12,8 @@
         "to-spec",
         "to-tickets",
         "code-review",
-        "wayfinder"
+        "wayfinder",
+        "task-difficulty"
       ]
     }
   ]

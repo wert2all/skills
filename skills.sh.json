@@ -13,8 +13,10 @@
         "to-tickets",
         "code-review",
         "wayfinder",
+        "retro",
         "task-difficulty",
-        "commit"
+        "commit",
+        "writing-for-agents"
       ]
     }
   ]
